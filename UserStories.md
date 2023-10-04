@@ -9,7 +9,7 @@ A small phone repair shop is looking to have a small application that allows the
 5. [ ] Automatically log users out after a certain time
 6. [ ] Allow users to Logout mannually
 7. [ ] Tickets are assigned to specific employees
-8. [ ] Tickets have a #, title, comment by, create & update dates
+8. [ ] Tickets have a title, comment by, create & update dates
 9. [ ] Users can be Employees, Managers, or Admins
 10. [ ] Tickets can be deleted by Managers or Admin
 11. [ ] Tickets can be reassigned by Managers or Admin
@@ -21,3 +21,4 @@ A small phone repair shop is looking to have a small application that allows the
 17. [ ] Managers and Admins can view and edit all tickets
 18. [ ] Only Admins can create new users
 19. [ ] Allow for Mobile user as well as Desktop mode
+20. [ ] Allow imediate removal of user access
